@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Vision, Machine Learning and Robotics
 - 🌱 I’m currently learning compression of deep learning models.
 - 💞️ I’m looking to collaborate on compression of deep learning models.
-- 📫 How to reach me gabriel.gonzalez.s@tec.mx
+- 📫 How to reach me ...
 
 <!---
 GabrielGlzSa/GabrielGlzSa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
